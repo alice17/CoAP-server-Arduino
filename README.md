@@ -1,2 +1,3 @@
 # CoAP-server-Arduino
-Simple CoAP server for Arduino. Uses CoAP-simple-library for providing sensor and led data through a Ethernet Shield.
+Simple CoAP server for Arduino. <br>
+Uses [CoAP-simple-library](https://github.com/hirotakaster/CoAP-simple-library) for providing sensor and led data to clients requesting them. Connection to the internet is made using an Ethernet Shield.
